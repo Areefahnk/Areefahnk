@@ -12,9 +12,7 @@
 
 💼 **Data Scientist/Team Lead** at Genzeon: Leading the GenAI Team in Healthcare Product Engineering.
 
-                Surfin’ the GenAI Waves | In Full LLM Gear ⚙️ (AI/ML)
-
-🔍 **Exploring LLMs Sphere:** Delving into Language and Learning Models for insightful patterns.
+🔍 **Exploring LLMs Sphere:** Surfin’ the GenAI Waves | In Full LLM Gear ⚙️ (AI/ML)
 
 🌐 **Founder of GradStellar:** Guiding juniors in AI & running AI/ML Bootcamps.
 
