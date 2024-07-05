@@ -48,7 +48,6 @@
 
 
 
-
 <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Areefahnk&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt=“Areefahnk" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Areefahnk&show_icons=true&theme=dark&hide_border=true&locale=en" alt=“Areefahnk" /></p>
@@ -59,7 +58,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
 </p>
-<br><br>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
