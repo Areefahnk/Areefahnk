@@ -9,21 +9,23 @@
 
 <br>
 
-<p align="left">
-  <a href="https://twitter.com/awsmankit_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow%20%40awsmankit_-1DA1F2?style=for-the-badge&logo=twitter" alt="Follow me on Twitter" />
-  </a>
-</p>
 
-👨‍💻 I'm an enthusiastic **Data Scientist** dedicated to unraveling insights through cutting-edge technology.
+💼 **Data Scientist/Team Lead** at Genzeon: Leading the GenAI Team in Healthcare Product Engineering.
 
-🔭 Currently, I'm diving into the intricate world of **LLM (Language and Learning Model)** to extract meaningful patterns.
+**Surfin’ the GenAI Waves | In Full LLM Gear ⚙️(AI/ML)**
 
-🌱 Exploring the fascinating territories of **Langchain, Machine Learning, and Deep Learning** keeps my curiosity alive.
+🔍 **Exploring LLMs Sphere:** Delving into Language and Learning Models for insightful patterns.
+
+🌐 **Founder of GradStellar:** Guiding juniors in AI & running AI/ML Bootcamps.
+
+🧠 **AI Innovator:** Combining technology with problem-solving in AI, NLP, and GenAI.
+
+🏗️ **Healthcare Solutions:** Creating POCs and full-fledged products, handling on-premise and cloud challenges.
+
 
 💬 Feel free to ignite conversations on **Data Science, LLM, Python, Flask, or any topic** you're passionate about.
 
-📫 Connect with me via [email](mailto:iamankit497@gmail.com) for insightful discussions and collaborative endeavors. ✉️
+📫 Connect with me via [email](mailto:areefahnk@gmail.com) for insightful discussions and collaborative endeavors. ✉️
 
 
 <br/>
