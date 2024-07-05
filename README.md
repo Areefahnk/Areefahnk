@@ -31,11 +31,10 @@
 <h2 align="center">Connect With Me 🫱🏽‍🫲🏽</h2>
 
 <p align="center">
-<a href="https://twitter.com/awsmankit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awsmankit_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankitsingh282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitsingh282" height="30" width="40" /></a>
-<a href="https://kaggle.com/awsmankitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="awsmankitt" height="30" width="40" /></a>
-<a href="https://instagram.com/awsmankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awsmankit" height="30" width="40" /></a>
-<a href="https://medium.com/@awsmankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@awsmankit" height="30" width="40" /></a>
+<a href="https://x.com/areefahnk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awsmankit_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/areefa-4530a6192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitsingh282" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/areefahnk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="awsmankitt" height="30" width="40" /></a>
+<a href="https://www.instagram.com/the.heenawriting/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awsmankit" height="30" width="40" /></a>
 </p>
 
 <br/>
@@ -60,6 +59,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
 </p>
+<br><br>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
